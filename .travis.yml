@@ -1,6 +1,6 @@
 language: go
 sudo: false
-go_import_path: trimmer.io/go-xmp
+go_import_path: github.com/honza/go-xmp
 
 go:
   - "1.10"

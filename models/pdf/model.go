@@ -17,9 +17,9 @@ package pdf
 
 import (
 	"fmt"
-	"trimmer.io/go-xmp/models/dc"
-	"trimmer.io/go-xmp/models/xmp_base"
-	"trimmer.io/go-xmp/xmp"
+	"github.com/honza/go-xmp/models/dc"
+	"github.com/honza/go-xmp/models/xmp_base"
+	"github.com/honza/go-xmp/xmp"
 )
 
 var (

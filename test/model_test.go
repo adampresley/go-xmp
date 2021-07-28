@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"testing"
 
-	_ "trimmer.io/go-xmp/models"
-	"trimmer.io/go-xmp/xmp"
+	_ "github.com/honza/go-xmp/models"
+	"github.com/honza/go-xmp/xmp"
 )
 
 type TestModel struct {

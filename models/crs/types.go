@@ -18,7 +18,7 @@ import (
 	"bytes"
 	"fmt"
 	"strconv"
-	"trimmer.io/go-xmp/xmp"
+	"github.com/honza/go-xmp/xmp"
 )
 
 // Point "x, y"

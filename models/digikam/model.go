@@ -4,7 +4,7 @@ package digikam
 
 import (
 	"fmt"
-	"trimmer.io/go-xmp/xmp"
+	"github.com/honza/go-xmp/xmp"
 )
 
 var (

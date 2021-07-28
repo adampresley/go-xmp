@@ -24,7 +24,7 @@ import (
 	"strings"
 	"time"
 
-	"trimmer.io/go-xmp/xmp"
+	"github.com/honza/go-xmp/xmp"
 )
 
 var (

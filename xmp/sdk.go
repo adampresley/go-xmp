@@ -13,7 +13,7 @@
 // under the License.
 
 // Package xmp implements the Extensible Metadata Platform (XMP) defined in ISO 16684-1:2011(E).
-package xmp // import "trimmer.io/go-xmp/xmp"
+package xmp // import "github.com/honza/go-xmp/xmp"
 
 import (
 	"encoding/xml"
