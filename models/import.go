@@ -16,7 +16,7 @@ package models
 
 // register all metadata models
 import (
-	_ "github.com/honza/go-xmp/models/cc"
+	_ "github.com/adampresley/go-xmp/models/cc"
 	_ "github.com/honza/go-xmp/models/crs"
 	_ "github.com/honza/go-xmp/models/dc"
 	_ "github.com/honza/go-xmp/models/dji"

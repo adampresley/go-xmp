@@ -17,8 +17,8 @@ package xmpbase
 
 import (
 	"fmt"
+	"github.com/adampresley/go-xmp/xmp"
 	"strings"
-	"github.com/honza/go-xmp/xmp"
 )
 
 var (

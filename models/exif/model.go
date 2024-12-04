@@ -30,7 +30,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/honza/go-xmp/models/dc"
+	"github.com/adampresley/go-xmp/models/dc"
 	"github.com/honza/go-xmp/models/ps"
 	"github.com/honza/go-xmp/models/tiff"
 	"github.com/honza/go-xmp/models/xmp_base"

@@ -17,7 +17,7 @@ package riff
 
 import (
 	"fmt"
-	"github.com/honza/go-xmp/models/dc"
+	"github.com/adampresley/go-xmp/models/dc"
 	"github.com/honza/go-xmp/models/xmp_base"
 	"github.com/honza/go-xmp/models/xmp_dm"
 	"github.com/honza/go-xmp/xmp"

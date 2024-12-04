@@ -1,4 +1,4 @@
-module github.com/honza/go-xmp
+module github.com/adampresley/go-xmp
 
 go 1.16
 

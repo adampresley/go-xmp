@@ -23,7 +23,7 @@ import (
 	"os"
 	"path/filepath"
 
-	_ "github.com/honza/go-xmp/models"
+	_ "github.com/adampresley/go-xmp/models"
 	"github.com/honza/go-xmp/models/dc"
 	"github.com/honza/go-xmp/models/xmp_base"
 	"github.com/honza/go-xmp/xmp"

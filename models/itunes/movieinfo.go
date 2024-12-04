@@ -15,7 +15,7 @@
 package itunes
 
 import (
-	"github.com/honza/go-xmp/xmp"
+	"github.com/adampresley/go-xmp/xmp"
 	// "howett.net/plist"
 )
 

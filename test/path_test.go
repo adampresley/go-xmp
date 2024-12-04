@@ -17,7 +17,7 @@ package main
 import (
 	"testing"
 
-	_ "github.com/honza/go-xmp/models"
+	_ "github.com/adampresley/go-xmp/models"
 	"github.com/honza/go-xmp/models/dc"
 	"github.com/honza/go-xmp/models/xmp_mm"
 	"github.com/honza/go-xmp/xmp"

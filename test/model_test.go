@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"testing"
 
-	_ "github.com/honza/go-xmp/models"
+	_ "github.com/adampresley/go-xmp/models"
 	"github.com/honza/go-xmp/xmp"
 )
 

@@ -55,7 +55,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/honza/go-xmp/models/ixml"
+	"github.com/adampresley/go-xmp/models/ixml"
 	"github.com/honza/go-xmp/xmp"
 )
 

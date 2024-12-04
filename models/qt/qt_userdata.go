@@ -16,7 +16,7 @@ package qt
 
 import (
 	"fmt"
-	"github.com/honza/go-xmp/xmp"
+	"github.com/adampresley/go-xmp/xmp"
 )
 
 // QuickTime User Data as written by the "udta" handler using FourCC atom names.

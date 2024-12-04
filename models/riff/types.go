@@ -15,8 +15,8 @@
 package riff
 
 import (
+	"github.com/adampresley/go-xmp/xmp"
 	"strings"
-	"github.com/honza/go-xmp/xmp"
 )
 
 type StringArray xmp.StringArray

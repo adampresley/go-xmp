@@ -15,7 +15,7 @@
 package tiff
 
 import (
-	"github.com/honza/go-xmp/xmp"
+	"github.com/adampresley/go-xmp/xmp"
 )
 
 type YCbCrSubSampling xmp.IntList

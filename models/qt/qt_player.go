@@ -16,7 +16,7 @@ package qt
 
 import (
 	"fmt"
-	"github.com/honza/go-xmp/xmp"
+	"github.com/adampresley/go-xmp/xmp"
 )
 
 type QtPlayer struct {

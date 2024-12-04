@@ -4,7 +4,7 @@ package digikam
 
 import (
 	"fmt"
-	"github.com/honza/go-xmp/xmp"
+	"github.com/adampresley/go-xmp/xmp"
 )
 
 var (

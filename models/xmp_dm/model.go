@@ -17,7 +17,7 @@ package xmpdm
 
 import (
 	"fmt"
-	"github.com/honza/go-xmp/models/xmp_tpg"
+	"github.com/adampresley/go-xmp/models/xmp_tpg"
 	"github.com/honza/go-xmp/xmp"
 )
 

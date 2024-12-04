@@ -16,7 +16,7 @@
 package xmpbj
 
 import (
-	"github.com/honza/go-xmp/xmp"
+	"github.com/adampresley/go-xmp/xmp"
 )
 
 // Part 2: 1.2.5.1 Job

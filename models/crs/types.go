@@ -17,12 +17,11 @@ package crs
 import (
 	"bytes"
 	"fmt"
+	"github.com/adampresley/go-xmp/xmp"
 	"strconv"
-	"github.com/honza/go-xmp/xmp"
 )
 
 // Point "x, y"
-//
 type Point struct {
 	X int64
 	Y int64

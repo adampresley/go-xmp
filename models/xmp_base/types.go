@@ -17,7 +17,7 @@ package xmpbase
 
 import (
 	"bytes"
-	"github.com/honza/go-xmp/xmp"
+	"github.com/adampresley/go-xmp/xmp"
 )
 
 type Rating int

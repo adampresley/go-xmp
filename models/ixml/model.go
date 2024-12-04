@@ -32,7 +32,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/honza/go-xmp/models/xmp_dm"
+	"github.com/adampresley/go-xmp/models/xmp_dm"
 	"github.com/honza/go-xmp/xmp"
 )
 

@@ -17,7 +17,7 @@ package mp4
 
 import (
 	"fmt"
-	"github.com/honza/go-xmp/models/qt"
+	"github.com/adampresley/go-xmp/models/qt"
 	"github.com/honza/go-xmp/xmp"
 )
 

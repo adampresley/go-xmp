@@ -16,7 +16,7 @@
 package dc
 
 import (
-	"github.com/honza/go-xmp/xmp"
+	"github.com/adampresley/go-xmp/xmp"
 )
 
 type DataType string

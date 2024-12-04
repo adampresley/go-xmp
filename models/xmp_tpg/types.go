@@ -17,7 +17,7 @@
 package xmptpg
 
 import (
-	"github.com/honza/go-xmp/xmp"
+	"github.com/adampresley/go-xmp/xmp"
 )
 
 // Part 2: 1.2.2.2 Dimensions
